@@ -62,7 +62,7 @@ Actual vs. Predicted Prices (Regression Plot)
 📢 Connect with Me
 
 
-🔗 LinkedIn: 
+🔗 LinkedIn: [Moh Ahamad](https://www.linkedin.com/in/moh-ahamad1ai) 
 
 📧 Email: work.ahamad925@gmail.com
 

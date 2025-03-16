@@ -59,6 +59,15 @@ House Price Distribution
 
 Actual vs. Predicted Prices (Regression Plot)
 
+## 📊 Data Visualization
+
+### 🔹 House Price Distribution
+![House Price Distribution](House Price Distribution.png)
+
+### 🔹 Actual vs. Predicted Prices
+![Actual vs Predicted Prices](Act vs Pred Price.png)
+
+
 📢 Connect with Me
 
 
